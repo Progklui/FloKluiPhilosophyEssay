@@ -1,5 +1,5 @@
 # Essay collection
 
-This repository is simply a collection of essays discussing a whole range of topics.
+This repository is simply a personal collection of essays discussing a whole range of topics.
 
 
